@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tee-works
-- 👀 I’m interested in Data analysis/data science 
-- 🌱 I’m currently learning data analysis
+- 👀 I’m a Data analyst 
+- 🌱 I’m currently have skills in  data analysis
 - 💞️ I’m looking to collaborate on data analysis skills 
 
 
