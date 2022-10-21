@@ -1,7 +1,9 @@
-I am a data analyst in training who is passionately learning and looking forward to put the these data analysis skills to use.
+Hi, my name is Taiwo
+I am a data analyst who is passionate about working with data 
+I currently use Python to complement SQL and  Power BI in Data querrying, manipulation and visualizations.
+I'm looking to collaborate on projects that would help improve my skills and experience.
+How to reach me: 
+Linkedin: Iyanujesu Akinyefa
+Twitter/Instagram: @taiwoo
 
 
-<!---
-Tee-works/Tee-works is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
