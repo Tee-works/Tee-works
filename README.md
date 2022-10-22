@@ -8,6 +8,7 @@ I'm looking to collaborate on projects that would help improve my skills and exp
 
 How to reach me: 
 Linkedin: Iyanujesu Akinyefa
+
 Twitter/Instagram: @taiwoo
 
 
