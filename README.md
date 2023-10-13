@@ -1,6 +1,6 @@
 Hi, my name is Taiwo
 
-I am a data analyst who is passionate about working with data 
+I am a data analyst/Engineer who is passionate about working with data 
 
 I currently use Python to complement SQL and  Power BI in Data querrying, manipulation and visualizations.
 
