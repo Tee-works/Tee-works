@@ -19,6 +19,5 @@ I'm keen to collaborate on projects that focus on scalable data solutions and in
 ## Connect With Me 🌍
 
 - **LinkedIn**: [Iyanujesu Akinyefa](https://www.linkedin.com/in/iyanujesu-akinyefa/)
-- **Twitter/Instagram**: [@taiwoo](https://twitter.com/taiwoo)
 
 Thank you for visiting my profile! I look forward to connecting and collaborating on exciting future data challenges.
